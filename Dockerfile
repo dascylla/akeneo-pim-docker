@@ -1,4 +1,4 @@
-FROM ronanguilloux/debianeo:latest
+FROM dascylla/debianeo:v1.0.0
 MAINTAINER Ronan Guilloux <ronan.guilloux@gmail.com>
 
 # Add some utilities
